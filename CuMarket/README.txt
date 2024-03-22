@@ -1,5 +1,8 @@
 Author: Fatema Lokhandwala
 
+Overview:
+CuMarket is a digital marketplace where you can list and sell goods. 
+
 List of files:
 - README.txt: Contains this description
 - Category.h: Contains a Category enum and a forward declaration of categoryToString(Category c) global function.
@@ -18,7 +21,7 @@ List of files:
 
 Compilation and execution instructions:
 - Navigate to the folder that contains all the files.
-- Use the command "make a1", "make", or "make all" to create the object files and compile the files.
-- If you would like to delete the object code, use the command "make clean"
-- Type the command "./a1" while in the folder in which the executable has been created in to run the program.
-- The program will run after you type "./a1".
+- Use the command `make a1`, `make`, or `make all` to create the object files and compile the files.
+- If you would like to delete the object code, use the command `make clean`
+- Type the command `./a1` while in the folder in which the executable has been created in to run the program.
+- The program will run after you type `./a1`.
